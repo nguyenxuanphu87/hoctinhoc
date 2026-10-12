@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tin Học THPT – Luyện Thi Tốt Nghiệp",
+  "description": "Nền tảng ôn thi tốt nghiệp THPT môn Tin học (định hướng Tin học ứng dụng): Học lý thuyết chuẩn GDPT 2018, luyện tập trắc nghiệm đa dạng (4 lựa chọn, Đúng/Sai, trả lời ngắn), thi thử bấm giờ chấm điểm tự động và Trợ lý AI sư phạm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
